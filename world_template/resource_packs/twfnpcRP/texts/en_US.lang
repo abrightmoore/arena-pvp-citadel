@@ -1,0 +1,5 @@
+pack.name=Arena PvP Citadel RP
+pack.description=The World Foundry citadel citizens
+
+entity.twf:npc_city.name=Citizen
+item.spawn_egg.entity.twf:npc_city.name=Spawn Citizen

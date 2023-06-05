@@ -1,0 +1,45 @@
+2021/02/21-09:29:08.135 22bc Recovering log #4289
+2021/02/21-09:29:08.137 22bc Delete type=0 #4289
+2021/02/21-09:29:08.137 22bc Delete type=3 #4287
+2021/02/21-10:07:45.839 354c Level-0 table #4294: started
+2021/02/21-10:07:45.965 354c Level-0 table #4294: 564985 bytes OK
+2021/02/21-10:07:45.987 354c Delete type=0 #4292
+2021/02/21-10:07:46.012 354c Manual compaction at level-0 from (begin) .. (end); will stop at '\xff\xff\xff\xff\xff\xff\xff\xffv' @ 2007672 : 0
+2021/02/21-10:07:46.012 354c Compacting 1@0 + 0@1 files
+2021/02/21-10:07:46.074 354c Generated table #4295@0: 67955 keys, 402121 bytes
+2021/02/21-10:07:46.099 354c Generated table #4296@0: 28381 keys, 163098 bytes
+2021/02/21-10:07:46.099 354c Compacted 1@0 + 0@1 files => 565219 bytes
+2021/02/21-10:07:46.099 354c compacted to: files[ 0 2 17 0 0 0 0 ]
+2021/02/21-10:07:46.099 354c Delete type=2 #4294
+2021/02/21-10:07:46.118 354c Manual compaction at level-0 from '\xff\xff\xff\xff\xff\xff\xff\xffv' @ 2007672 : 0 .. (end); will stop at (end)
+2021/02/21-10:07:46.118 354c Manual compaction at level-1 from (begin) .. (end); will stop at '\xff\xff\xff\xff\xff\xff\xff\xffv' @ 2007672 : 0
+2021/02/21-10:07:46.118 354c Compacting 2@1 + 17@2 files
+2021/02/21-10:07:46.715 354c Generated table #4297@1: 6423 keys, 2117188 bytes
+2021/02/21-10:07:47.351 354c Generated table #4298@1: 6072 keys, 2135371 bytes
+2021/02/21-10:07:47.764 354c Generated table #4299@1: 5626 keys, 2112259 bytes
+2021/02/21-10:07:48.186 354c Generated table #4300@1: 5614 keys, 2148919 bytes
+2021/02/21-10:07:48.606 354c Generated table #4301@1: 5748 keys, 2114018 bytes
+2021/02/21-10:07:49.068 354c Generated table #4302@1: 6166 keys, 2124358 bytes
+2021/02/21-10:07:49.461 354c Generated table #4303@1: 4817 keys, 1659051 bytes
+2021/02/21-10:07:49.461 354c Compacted 2@1 + 17@2 files => 14411164 bytes
+2021/02/21-10:07:49.461 354c compacted to: files[ 0 0 7 0 0 0 0 ]
+2021/02/21-10:07:49.469 354c Delete type=2 #4209
+2021/02/21-10:07:49.491 354c Delete type=2 #4210
+2021/02/21-10:07:49.515 354c Delete type=2 #4266
+2021/02/21-10:07:49.518 354c Delete type=2 #4273
+2021/02/21-10:07:49.520 354c Delete type=2 #4274
+2021/02/21-10:07:49.523 354c Delete type=2 #4275
+2021/02/21-10:07:49.524 354c Delete type=2 #4276
+2021/02/21-10:07:49.526 354c Delete type=2 #4277
+2021/02/21-10:07:49.527 354c Delete type=2 #4278
+2021/02/21-10:07:49.529 354c Delete type=2 #4279
+2021/02/21-10:07:49.530 354c Delete type=2 #4280
+2021/02/21-10:07:49.532 354c Delete type=2 #4281
+2021/02/21-10:07:49.533 354c Delete type=2 #4282
+2021/02/21-10:07:49.534 354c Delete type=2 #4283
+2021/02/21-10:07:49.535 354c Delete type=2 #4284
+2021/02/21-10:07:49.536 354c Delete type=2 #4285
+2021/02/21-10:07:49.538 354c Delete type=2 #4286
+2021/02/21-10:07:49.538 354c Delete type=2 #4295
+2021/02/21-10:07:49.539 354c Delete type=2 #4296
+2021/02/21-10:07:50.294 354c Manual compaction at level-1 from '\xff\xff\xff\xff\xff\xff\xff\xffv' @ 2007672 : 0 .. (end); will stop at (end)
